@@ -1,29 +1,37 @@
-# DIDO: Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models
+<h1 align="center">DIDO</h1>
 
 <p align="center">
-Jing Lyu<sup>*,1,2,3</sup> &nbsp;&nbsp;
-Shuanghao Bai<sup>*,4</sup> &nbsp;&nbsp;
-Runze Xiao<sup>3</sup> &nbsp;&nbsp;
-Zhenyu Liao<sup>6</sup> &nbsp;&nbsp;
-Wenxing Tan<sup>3</sup><br>
-Zihan Tang<sup>5</sup> &nbsp;&nbsp;
-Ruochuan Shi<sup>1,2,3</sup> &nbsp;&nbsp;
-Cheng Peng<sup>1,2,3</sup> &nbsp;&nbsp;
-Yuheng Ji<sup>1,2,3</sup> &nbsp;&nbsp;
-Yihao Wang<sup>3</sup><br>
-Badong Chen<sup>4</sup> &nbsp;&nbsp;
-Pengwei Wang<sup>3</sup> &nbsp;&nbsp;
-Zhongyuan Wang<sup>&dagger;,3</sup> &nbsp;&nbsp;
-Xiaoguang Zhao<sup>&dagger;,1,2</sup>
+  <strong>Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models</strong>
 </p>
 
 <p align="center">
-<sup>1</sup>Institute of Automation, Chinese Academy of Sciences<br>
-<sup>2</sup>School of Artificial Intelligence, University of Chinese Academy of Sciences<br>
-<sup>3</sup>Beijing Academy of Artificial Intelligence (BAAI)<br>
-<sup>4</sup>Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University<br>
-<sup>5</sup>Tsinghua University &nbsp;&nbsp; <sup>6</sup>Amazon<br>
-<sup>*</sup>Equal contribution. &nbsp;&nbsp; <sup>&dagger;</sup>Corresponding authors.
+  <a href="https://scholar.google.com/citations?hl=vi&amp;user=Th6JWCEAAAAJ">Jing Lyu<sup>*</sup></a>,
+  <a href="https://baishuanghao.github.io/">Shuanghao Bai<sup>*</sup></a>,
+  Runze Xiao,
+  Zhenyu Liao,
+  Wenxing Tan,
+  Zihan Tang,
+  Ruochuan Shi,
+  Cheng Peng,
+  Yuheng Ji,
+  Yihao Wang,
+  <a href="https://gr.xjtu.edu.cn/web/chenbd/home">Badong Chen</a>,
+  <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=2xR6P5AAAAAJ">Pengwei Wang</a>,
+  <a href="https://www.wangzhongyuan.com/">Zhongyuan Wang<sup>&dagger;</sup></a>,
+  <a href="https://people.ucas.ac.cn/~zhaoxiaoguang?language=en">Xiaoguang Zhao<sup>&dagger;</sup></a>
+</p>
+
+<p align="center">
+  <sub><sup>*</sup> Equal contribution. &nbsp;&nbsp; <sup>&dagger;</sup> Corresponding authors.</sub>
+</p>
+
+<p align="center">
+  <a href="https://loveju1y.github.io/DIDO/">
+    <img src="https://img.shields.io/badge/Homepage-DIDO-2d6cdf?style=for-the-badge" alt="Project homepage">
+  </a>
+  <a href="https://github.com/LoveJu1y/DIDO-WAM">
+    <img src="https://img.shields.io/badge/GitHub-DIDO--WAM-181717?style=for-the-badge&amp;logo=github" alt="GitHub repository">
+  </a>
 </p>
 
 **Code will come soon.**
